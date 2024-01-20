@@ -6,10 +6,9 @@ Use this section to inform users about the currently supported versions of your 
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| V1.0.0  | :x:                |
+| V1.0.1  | :white_check_mark: |
+
 
 ## Reporting a Vulnerability
 
